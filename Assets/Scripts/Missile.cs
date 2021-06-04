@@ -11,10 +11,7 @@ public class Missile : MonoBehaviour
     void Start()
     {
         rigid = GetComponent<Rigidbody2D>();
-        
     }
-
-    // Update is called once per frame
     void Update()
     {
         rigid.velocity = Vector2.up * speed;
