@@ -9,6 +9,7 @@ TagManager:
   - Ground
   - Missile
   - Meteor
+  - Canvas
   layers:
   - Default
   - TransparentFX

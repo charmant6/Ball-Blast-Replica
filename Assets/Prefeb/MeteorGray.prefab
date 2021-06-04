@@ -332,6 +332,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66cf5bb4766149743bd08455653d7875, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 600
+  health: 10
   healthText: {fileID: 8630243453877949786}
   missile: {fileID: 735954025495673821, guid: 20b8a7dbd37021f4f9c1be842a5f1c2a, type: 3}
